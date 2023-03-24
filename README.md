@@ -6,17 +6,18 @@
 ####  selected tool and github repo
 
 I will be using pylint tool for python.<br/>
-Github repo : https://github.com/MakeContributions/DSA.git
+- **Github repo : https://github.com/MakeContributions/DSA.git**
 <br/><br/>
 ![1](https://user-images.githubusercontent.com/77293195/227482175-91b9c76f-bd86-4b96-aafa-a9f4a93fdb94.png)
 <br/><br/>
-installing tools
+- **Installing tools**
 <br/><br/>
 ![2](https://user-images.githubusercontent.com/77293195/227483682-8b89eb97-775e-40c2-a355-420a4ebfdfbe.png)
 <br/><br/>
 As we can see pylint already exists.
 <br/>
-#### Performing static Analysis and error understanding
+
+### Performing static Analysis and error understanding
 
 1.https://github.com/MakeContributions/DSA/blob/main/algorithms/Python/dynamic_programming/knapsack.py
 <br/>Tool output: 
